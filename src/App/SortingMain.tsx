@@ -16,7 +16,7 @@ const ComponentContainer = styled.div`
 
 const Title = styled.h1`
   margin: 0;
-  padding: 0;
+  padding: 0.5rem 0 0 0;
   color: #0D2249;
   text-align: center;
 `;
@@ -27,7 +27,7 @@ const ButtonContainer = styled.div`
   align-items: center;
   justify-content: center;
   background-color: #BDD2FA;
-  width: 100vw;
+  width: 99vw;
   padding: 0.5rem 0;
   flex-wrap: wrap;
 `;
@@ -70,8 +70,8 @@ const ArrayContainer = styled.div`
   align-items: flex-end;
   justify-content: center;
   background-color: white;
-  margin: 2rem 0;
-  height: 410px;
+  margin: 5% 0 0 0;
+  height: 430px;
   width: 70vw;
 `;
 
