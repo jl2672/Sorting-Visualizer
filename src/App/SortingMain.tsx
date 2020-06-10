@@ -34,7 +34,7 @@ const ButtonContainer = styled.div`
 
 const SortButton = styled.button`
   margin: 0.5rem 0.7rem;
-  padding: 0 1rem;
+  padding: 0.2rem 1rem;
   border-style: none;
   background-color: #5E92F2;
   border-radius: 7px;
