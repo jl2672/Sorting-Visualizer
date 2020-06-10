@@ -16,5 +16,10 @@ module.exports = {
   },
   rules: {
     "react/jsx-filename-extension": "off",
+    "no-plusplus": "off",
+    "import/extensions": "off",
+    "no-param-reassign": "off",
+    "prefer-destructuring": "off",
+    "max-len": "off",
   }
 };
